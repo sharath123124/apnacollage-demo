@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repo
 <br>
-Author sharath
+Author sharath <apna collage>
